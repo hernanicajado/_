@@ -41,6 +41,9 @@ Em runtime para aceder ao defaultSchema:
 ####MARS transactions
 [Yii issues](https://github.com/yiisoft/yii/issues/112/)
 
+#DI
+* http://www.yiiframework.com/doc-2.0/guide-concept-di-container.html#practical-usage
+
 ##ActiveRecord
 * [http://www.sitepoint.com/yii-2-0-activerecord-explained/](http://www.sitepoint.com/yii-2-0-activerecord-explained/)
 
